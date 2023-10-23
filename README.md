@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LeYahya
-- 👀 I’m interested in M&S.
-- 🌱 I’m currently learning python, R, and CFD.
-- 💞️ I’m looking to collaborate.
+- 🔩 I’m interested in M&S.
+- 📊 I’m currently learning python, R, and CFD.
 - 📫 contact me : yahyakhaizourane.kh@gmail.com
 
 <!---
